@@ -67,14 +67,21 @@ Post-request checklist
  Verify that the user account has been created and / or added to the requested groups.
  Email the user welcoming them to the team and linking them to NSAPH. Include links to RCE guides and the Analytic Data Use Agreement form.
  Request the user's Github.com user name (ask them to create one if they don't have an account already) and add them to the researcher team at https://github.com/orgs/NSAPH/people.
+ 
 Granting access to a health data set
 When someone requests access to a new health data set, the following steps should be taken:
 
  Ask the requester to fill out a copy of Analytic Data Use Agreement.docx describing the data that they're interested in, and agreeing to the data access principles. Verify that the form is filled out completely.
+ 
  Obtain written authorization for data access from Francesca Dominici.
  Ensure that the requester has an up to date CITI certification.
+ 
  Verify that the individual is authorized to access health data. Checklists need to be developed for this, for now best to check with Yun Wang at mailto:yunwang@hsph.harvard.edu.
+ 
  If the requested dataset is available, copy the data and assosciated documentation to a directory in the requester's ci3_username directory.
+ 
  If the dataset is not available, determine if the requested data can be assembled from currently available datasets. If it can, create a project to assemble the data set. If not, ask for the requester to submit a new data request to Yun.
+ 
  Update https://github.com/NSAPH/data_requests/blob/master/project_list.md with the information from the Analytic Data Use Agreement.
+ 
  Update https://github.com/NSAPH/data_documentation/blob/master/rce_data_list/health_data.csv as needed. Make sure to add links to the Analytic Data Use Agreement information from the previous step.
