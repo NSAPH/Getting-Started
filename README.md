@@ -1,5 +1,5 @@
 # Getting-Started
-This document provides information on initial compliancy measures and how to gain access to the RCE 
+This document provides information on initial compliancy measures and how to gain access to the RCE. 
 
 Granting RCE Access
 Granting an individual access to the RCE is a multi-step process that must be followed carefully to ensure that access is vetted and documented. The process differs depending on whether access is limited to the general tier, or whether access to the open health access tier is required. The process for the two access tiers are described below.
